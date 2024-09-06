@@ -164,8 +164,11 @@
     }
     .card1{
         margin-bottom: 10px;
-        padding: auto;
-
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
 
     }
     .footer a {
